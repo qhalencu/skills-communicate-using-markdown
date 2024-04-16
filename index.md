@@ -7,3 +7,8 @@
 ``` javascript
 var myCorgi = "Bark bark!";
 ```
+
+## Checklist
+- [ ] Complete Step 4
+- [ ] Complete Step 5
+- [x] Say good morning Ryder
